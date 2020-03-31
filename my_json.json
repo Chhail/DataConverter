@@ -1,11 +1,18 @@
 {
-  "Name" : "Rani",
-  "Designation" : "PHP Developer",
-  "Salary" : 98000,
-  "Age" : 18,
-  "Projects" : [
-    {"Topic" :  "Smart Ambulance","Category": "Android Application","Months": 2},
-    {"Topic": "AST","Category": "Embedded System","Months": 1},
-    {"Topic": "Plant Nursery","Category": "Website","Months": 3}
-  ]
+    "planets": {
+        "planet": [
+            {
+                "name": "Earth",
+                "radius": "6,371km"
+            },
+            {
+                "name": "Jupiter",
+                "radius": "69,911km"
+            },
+            {
+                "name": "Mars",
+                "radius": "3,390km"
+            }
+        ]
+    }
 }
